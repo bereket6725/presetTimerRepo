@@ -1,8 +1,7 @@
 # Unit 1 Final Project
 
-**Dates:**
-09/01 - Practice demos
-09/03 - Final demos
+**Practice Demos:** 09/01  
+**Final Demos:** 09/03
 
 ## Feature Requirements
 2 primary screens
